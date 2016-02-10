@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41537" started-at="2016-02-09T19:29:44Z" finished-at="2016-02-09T19:30:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41537" started-at="2016-02-09T19:29:44Z" finished-at="2016-02-09T19:30:26Z">
+      <class name="testCase.TestCaseForLandingPage">
+        <test-method status="PASS" signature="reportIni()[pri:0, instance:testCase.TestCaseForLandingPage@17c7260]" name="reportIni" is-config="true" duration-ms="126" started-at="2016-02-09T14:29:44Z" finished-at="2016-02-09T14:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportIni -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testCase.TestCaseForLandingPage@17c7260]" name="openBrowser" is-config="true" duration-ms="14610" started-at="2016-02-09T14:29:44Z" finished-at="2016-02-09T14:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:testCase.TestCaseForLandingPage@17c7260]" name="verifyTitle" duration-ms="26913" started-at="2016-02-09T14:29:59Z" finished-at="2016-02-09T14:30:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.TestCaseForLandingPage@17c7260]" name="tearDown" is-config="true" duration-ms="2040" started-at="2016-02-09T14:30:26Z" finished-at="2016-02-09T14:30:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.TestCaseForLandingPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
